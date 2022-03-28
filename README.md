@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi everyone, I'm **Mauricio Nuñez**, a **Front-End Developer and Web Designer** ( Ranked Top 1% Worldwide 🌍 ) 🚀 from Venezuela.  Currently, I specialize in technologies as they are: HTML, CSS, Javascript, Responsive Desing, React, WebPack, Bootstrap, Linux,  and Wordpress. 👨🏽‍💻 
+Hi everyone, I'm **Mauricio Nuñez**, a **Front-End Developer and Web Designer** 🚀 from Venezuela.  Currently, I specialize in technologies as they are: HTML, CSS, Javascript, Responsive Desing, React, WebPack, Bootstrap, Linux,  and Wordpress. 👨🏽‍💻 
 
 
   <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
