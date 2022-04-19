@@ -7,7 +7,7 @@
   <img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/179/179342.png" />
 </a>
 <a href="https://www.instagram.com/drasmaurg/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />
 </a>
 <a href="https://www.facebook.com/mauriciojavier.nuneztorres">
   <img align="left" alt="Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
