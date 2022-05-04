@@ -33,14 +33,14 @@ Hi everyone, I'm **Mauricio Nuñez**, a **Front-End Developer and Web Designer**
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919851.png"></code>
-<code><img height="20" src="htps://cdn-icons-png.flaticon.com/512/174/174881.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="22" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
+<code><img height="22" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="22" src="https://cdn-icons-png.flaticon.com/512/919/919851.png"></code>
+<code><img height="22" src="htps://cdn-icons-png.flaticon.com/512/174/174881.png"></code>
+<code><img height="22" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Drasmaurg's GitHub stats](https://github-readme-stats.vercel.app/api?username=drasmaurg&theme=nord&show_icons=true)
 
