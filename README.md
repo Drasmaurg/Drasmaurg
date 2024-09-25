@@ -28,7 +28,7 @@ Hi everyone, I'm **Mauricio Nuñez**, a **Front-End Developer and Web Designer**
 - 💼 I’m currently taking a Full-Stack Web Development with React ;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via mauricionunez2011@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/15vUmt_kCXAcluf17vSPM_HUFM_cyXKkZ/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1Yete7WmOEnK_W1I-_l06fpKooefKlXTF/view?usp=sharing) to get more info.
 
 
 **Languages and Tools:**  
