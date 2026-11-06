@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Mauro Núñez · Full Stack Developer · Frontend expert" width="100%" />
+  <img src="assets/header.svg" alt="Mauro Nuñez · Full Stack Developer · Frontend expert" width="100%" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About me
 
-I'm **Mauricio Núñez**, but everyone calls me **Mauro**. Full Stack Developer with **7+ years** building websites, online stores, platforms and apps for companies in Colombia, Peru, Chile, Venezuela, Spain and beyond. My thing is the **frontend**: I take a design (or a loose idea on a napkin) and turn it into an interface that feels alive, loads fast and works on any screen.
+I'm **Mauricio Nuñez**, but everyone calls me **Mauro**. Full Stack Developer with **7+ years** building websites, online stores, platforms and apps for companies in Colombia, Peru, Chile, Venezuela, Spain and beyond. My thing is the **frontend**: I take a design (or a loose idea on a napkin) and turn it into an interface that feels alive, loads fast and works on any screen.
 
 I grew up on classic books, cult films, comics, anime and video games, and a bit of all that sneaks into every project.
 

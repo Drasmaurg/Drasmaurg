@@ -15,7 +15,7 @@
   <text class="m d" x="410" y="27" text-anchor="middle">mauro@cali: ~</text>
   <line x1="1" y1="42" x2="819" y2="42" stroke="#30363d"/>
   <text class="m ln l1" x="22" y="74"><tspan class="g">➜</tspan> <tspan class="o">~</tspan> whoami</text>
-  <text class="m ln l2" x="22" y="98">Mauricio "Mauro" Núñez · Full Stack Developer · Frontend expert · Cali, CO</text>
+  <text class="m ln l2" x="22" y="98">Mauricio "Mauro" Nuñez · Full Stack Developer · Frontend expert · Cali, CO</text>
   <text class="m ln l3" x="22" y="130"><tspan class="g">➜</tspan> <tspan class="o">~</tspan> cat stack.txt</text>
   <text class="m ln l4" x="22" y="154">React · Vue · TypeScript · PHP · Symfony · Node.js · WordPress · Three.js · AI agents</text>
   <text class="m ln l5" x="22" y="186"><tspan class="g">➜</tspan> <tspan class="o">~</tspan> ./build --idea "your next product"</text>
