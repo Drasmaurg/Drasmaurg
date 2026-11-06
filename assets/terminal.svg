@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="330" viewBox="0 0 820 330">
+  <style>
+    .w{fill:#0d1117;stroke:#30363d}
+    .m{font:14.5px 'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;fill:#c9d1d9}
+    .g{fill:#14b8a6}.o{fill:#f2a35e}.d{fill:#8b949e}.ok{fill:#3fb950}
+    .ln{opacity:0;animation:show 14s infinite}
+    @keyframes show{0%{opacity:0}2%{opacity:1}92%{opacity:1}96%{opacity:0}100%{opacity:0}}
+    .l1{animation-delay:0s}.l2{animation-delay:.9s}.l3{animation-delay:2.2s}.l4{animation-delay:3.1s}
+    .l5{animation-delay:4.4s}.l6{animation-delay:5.4s}.l7{animation-delay:6.2s}.l8{animation-delay:7s}.l9{animation-delay:7.8s}.l10{animation-delay:9s}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+  </style>
+  <rect class="w" x="1" y="1" width="818" height="328" rx="12"/>
+  <circle cx="24" cy="22" r="6" fill="#ff5f56"/><circle cx="44" cy="22" r="6" fill="#ffbd2e"/><circle cx="64" cy="22" r="6" fill="#27c93f"/>
+  <text class="m d" x="410" y="27" text-anchor="middle">mauro@cali: ~</text>
+  <line x1="1" y1="42" x2="819" y2="42" stroke="#30363d"/>
+  <text class="m ln l1" x="22" y="74"><tspan class="g">➜</tspan> <tspan class="o">~</tspan> whoami</text>
+  <text class="m ln l2" x="22" y="98">Mauricio "Mauro" Núñez · Full Stack Developer · Frontend expert · Cali, CO</text>
+  <text class="m ln l3" x="22" y="130"><tspan class="g">➜</tspan> <tspan class="o">~</tspan> cat stack.txt</text>
+  <text class="m ln l4" x="22" y="154">React · Vue · TypeScript · PHP · Symfony · Node.js · WordPress · Three.js · AI agents</text>
+  <text class="m ln l5" x="22" y="186"><tspan class="g">➜</tspan> <tspan class="o">~</tspan> ./build --idea "your next product"</text>
+  <text class="m ln l6" x="22" y="210"><tspan class="ok">✔</tspan> listening to the problem first</text>
+  <text class="m ln l7" x="22" y="234"><tspan class="ok">✔</tspan> designing an interface that feels alive</text>
+  <text class="m ln l8" x="22" y="258"><tspan class="ok">✔</tspan> shipping it, tested in a real browser</text>
+  <text class="m ln l9" x="22" y="282"><tspan class="d">☕ coffee consumed: yes · bugs: hunted · anime episodes: classified</tspan></text>
+  <text class="m ln l10" x="22" y="310"><tspan class="g">➜</tspan> <tspan class="o">~</tspan> <tspan class="cur">▋</tspan></text>
+</svg>
