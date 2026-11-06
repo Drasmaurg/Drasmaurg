@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44" role="img" aria-label="Brands &amp; companies">
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#19c6b5"/>
+      <stop offset="0.35" stop-color="#7fe3d8"/>
+      <stop offset="0.5" stop-color="#ffd3a8"/>
+      <stop offset="0.65" stop-color="#f2a35e"/>
+      <stop offset="1" stop-color="#19c6b5"/>
+      <animate attributeName="x1" values="-1;1" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#14b8a6"/>
+      <stop offset="0.5" stop-color="#30363d"/>
+      <stop offset="1" stop-color="#f28a3a"/>
+    </linearGradient>
+    <linearGradient id="streak" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient></defs>
+  <style>
+    .t{font:700 18px 'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;fill:url(#sweep)}
+    .n{font:600 12px 'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;fill:#8b949e;letter-spacing:2px}
+    .d{fill:#f2a35e;transform-box:fill-box;transform-origin:center;animation:rot 6s linear infinite}
+    .ln{stroke:#14b8a6;stroke-opacity:.45;stroke-width:1.5;stroke-dasharray:6 8;animation:flow 1.5s linear infinite}
+    @keyframes rot{from{transform:rotate(45deg)}to{transform:rotate(405deg)}}
+    @keyframes flow{to{stroke-dashoffset:-14}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+  <rect x="1" y="1" width="898" height="42" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect class="d" x="18" y="16" width="12" height="12" rx="2"/>
+  <text class="t" x="44" y="29">Brands &amp; companies</text>
+  <line class="ln" x1="233" y1="22" x2="780" y2="22"/>
+  <text class="n" x="882" y="27" text-anchor="end">06 BUILDS</text>
+</svg>

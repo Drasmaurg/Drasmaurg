@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="About Mauro Nuñez">
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#19c6b5"/>
+      <stop offset="0.35" stop-color="#7fe3d8"/>
+      <stop offset="0.5" stop-color="#ffd3a8"/>
+      <stop offset="0.65" stop-color="#f2a35e"/>
+      <stop offset="1" stop-color="#19c6b5"/>
+      <animate attributeName="x1" values="-1;1" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#14b8a6"/>
+      <stop offset="0.5" stop-color="#30363d"/>
+      <stop offset="1" stop-color="#f28a3a"/>
+    </linearGradient>
+    <linearGradient id="streak" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><rect x="1" y="1" width="898" height="328" rx="18"/></clipPath>
+    <clipPath id="win"><rect x="-2" y="0" width="30" height="46"/></clipPath>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#19c6b5" stop-opacity=".22"/><stop offset="1" stop-color="#19c6b5" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f28a3a" stop-opacity=".2"/><stop offset="1" stop-color="#f28a3a" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .b{font:400 16.5px 'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;fill:#c9d1d9}
+    .hl{fill:#7fe3d8;font-weight:700} .or{fill:#f2a35e;font-weight:700}
+    .num{font:800 40px 'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;fill:#ffffff}
+    .lab{font:600 12px 'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;fill:#8b949e;letter-spacing:1.5px;text-transform:uppercase}
+    .ring{stroke-dasharray:82;stroke-dashoffset:82;animation:ring 12s cubic-bezier(.2,.8,.2,1) infinite}
+    @keyframes ring{0%{stroke-dashoffset:82}16%,90%{stroke-dashoffset:0}97%,100%{stroke-dashoffset:82}}
+    .fl{font:600 13px 'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;fill:#8b949e;letter-spacing:1px}
+    .fuel{font:700 17px 'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;fill:url(#sweep);opacity:0;animation:fuel 12.0s infinite}
+    @keyframes fuel{0%{opacity:0;transform:translateY(10px)}4%,16%{opacity:1;transform:none}20%,100%{opacity:0;transform:translateY(-10px)}}
+    .cur{fill:#f2a35e;animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .g1{animation:f1 14s ease-in-out infinite} .g2{animation:f2 17s ease-in-out infinite}
+    @keyframes f1{0%,100%{transform:translate(0,0)}50%{transform:translate(90px,30px)}}
+    @keyframes f2{0%,100%{transform:translate(0,0)}50%{transform:translate(-80px,-20px)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="900" height="330" fill="#0d1117"/>
+    <ellipse class="g1" cx="160" cy="260" rx="300" ry="170" fill="url(#glow)"/>
+    <ellipse class="g2" cx="760" cy="60" rx="280" ry="160" fill="url(#glow2)"/>
+  </g>
+  <rect x="1" y="1" width="898" height="328" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <line x1="566" y1="34" x2="566" y2="296" stroke="#30363d" stroke-dasharray="3 5"/>
+  <text class="b" x="36" y="56.0">I'm <tspan class='hl'>Mauricio Nuñez</tspan>, but everyone calls me <tspan class='hl'>Mauro</tspan>.</text>
+  <text class="b" x="36" y="81.5">Full Stack Developer building websites, online stores,</text>
+  <text class="b" x="36" y="107.0">platforms and apps for companies in Colombia, Peru,</text>
+  <text class="b" x="36" y="132.5">Chile, Venezuela, Spain and beyond.</text>
+  <text class="b" x="36" y="158.0"></text>
+  <text class="b" x="36" y="183.5">My thing is the <tspan class='or'>frontend</tspan>: I take a design (or a loose</text>
+  <text class="b" x="36" y="209.0">idea on a napkin) and turn it into an interface that</text>
+  <text class="b" x="36" y="234.5">feels alive, loads fast and works on any screen.</text>
+  <rect x="36" y="260" width="494" height="40" rx="10" fill="#111c22" stroke="#1f2a30"/>
+  <text class="fl" x="52" y="285">currently fueled by ›</text>
+  <g transform="translate(254,286)"><text class="fuel" x="0" y="0" style="animation-delay:0.0s">classic books</text><text class="fuel" x="0" y="0" style="animation-delay:2.4s">cult films</text><text class="fuel" x="0" y="0" style="animation-delay:4.8s">comics</text><text class="fuel" x="0" y="0" style="animation-delay:7.2s">anime</text><text class="fuel" x="0" y="0" style="animation-delay:9.6s">video games</text></g>
+  <rect class="cur" x="505" y="270" width="9" height="20" rx="1"/>
+  <g transform="translate(634,40)"><g clip-path="url(#win)"><g style="animation:r00 12s 0.40s cubic-bezier(.2,.8,.2,1) infinite"><text class="num" x="0" y="36">0</text><text class="num" x="0" y="82">1</text><text class="num" x="0" y="128">2</text><text class="num" x="0" y="174">3</text><text class="num" x="0" y="220">4</text><text class="num" x="0" y="266">5</text><text class="num" x="0" y="312">6</text><text class="num" x="0" y="358">7</text></g></g></g><text class="num or" x="662" y="76">+</text><text class="lab" x="634" y="102">years shipping</text><circle cx="608" cy="63.0" r="13" fill="none" stroke="#1f2a30" stroke-width="3"/><circle class="ring" cx="608" cy="63.0" r="13" fill="none" stroke="#14b8a6" stroke-width="3" stroke-linecap="round" transform="rotate(-90 608 63.0)" style="animation-delay:0.40s"/><g transform="translate(634,128)"><g clip-path="url(#win)"><g style="animation:r10 12s 0.75s cubic-bezier(.2,.8,.2,1) infinite"><text class="num" x="0" y="36">0</text><text class="num" x="0" y="82">1</text><text class="num" x="0" y="128">2</text><text class="num" x="0" y="174">3</text><text class="num" x="0" y="220">4</text><text class="num" x="0" y="266">5</text></g></g></g><text class="lab" x="634" y="190">countries served</text><circle cx="608" cy="151.0" r="13" fill="none" stroke="#1f2a30" stroke-width="3"/><circle class="ring" cx="608" cy="151.0" r="13" fill="none" stroke="#f2a35e" stroke-width="3" stroke-linecap="round" transform="rotate(-90 608 151.0)" style="animation-delay:0.75s"/><g transform="translate(634,216)"><g clip-path="url(#win)"><g style="animation:r20 12s 1.10s cubic-bezier(.2,.8,.2,1) infinite"><text class="num" x="0" y="36">0</text><text class="num" x="0" y="82">1</text><text class="num" x="0" y="128">2</text></g></g></g><g transform="translate(662,216)"><g clip-path="url(#win)"><g style="animation:r21 12s 1.25s cubic-bezier(.2,.8,.2,1) infinite"><text class="num" x="0" y="36">0</text></g></g></g><text class="num or" x="690" y="252">+</text><text class="lab" x="634" y="278">sites &amp; apps live</text><circle cx="608" cy="239.0" r="13" fill="none" stroke="#1f2a30" stroke-width="3"/><circle class="ring" cx="608" cy="239.0" r="13" fill="none" stroke="#14b8a6" stroke-width="3" stroke-linecap="round" transform="rotate(-90 608 239.0)" style="animation-delay:1.10s"/>
+  <style>@keyframes r00{0%{transform:translateY(0)}16%,90%{transform:translateY(-322px)}97%,100%{transform:translateY(0)}}@keyframes r10{0%{transform:translateY(0)}16%,90%{transform:translateY(-230px)}97%,100%{transform:translateY(0)}}@keyframes r20{0%{transform:translateY(0)}16%,90%{transform:translateY(-92px)}97%,100%{transform:translateY(0)}}@keyframes r21{0%{transform:translateY(0)}16%,90%{transform:translateY(-0px)}97%,100%{transform:translateY(0)}}</style>
+</svg>

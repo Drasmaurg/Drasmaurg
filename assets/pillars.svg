@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-label="Frontend craft, Full stack, Interactive, AI-driven">
+  <style>
+    .h{font:800 18px 'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;fill:#ffffff}
+    .p{font:400 13.5px 'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;fill:#a5adb6}
+    .ic{fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+    .hi{opacity:0;animation:hi 3.6s ease-in-out infinite}
+    .top{transform-box:fill-box;transform-origin:center;transform:scaleX(.2);opacity:.4;animation:top 3.6s ease-in-out infinite}
+    .halo{transform-box:fill-box;transform-origin:center;animation:halo 3.6s ease-out infinite}
+    @keyframes hi{0%,100%{opacity:0}20%{opacity:.9}45%{opacity:0}}
+    @keyframes top{0%,100%{transform:scaleX(.2);opacity:.4}20%{transform:scaleX(1);opacity:1}45%{transform:scaleX(.2);opacity:.4}}
+    @keyframes halo{0%{transform:scale(1);opacity:.8}40%,100%{transform:scale(1.7);opacity:0}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+  
+  <g>
+    <rect x="1" y="1" width="212" height="188" rx="16" fill="#0d1117" stroke="#30363d"/>
+    <rect class="hi" x="1" y="1" width="212" height="188" rx="16" fill="none" stroke="#14b8a6" stroke-width="1.5" style="animation-delay:0.0s"/>
+    <rect class="top" x="21" y="1" width="172" height="3" rx="1.5" fill="#14b8a6" style="animation-delay:0.0s"/>
+    <g transform="translate(39,44)">
+      <circle r="20" fill="#14b8a6" opacity=".12"/>
+      <circle class="halo" r="20" fill="none" stroke="#14b8a6" style="animation-delay:0.0s"/>
+      <g class="ic" stroke="#14b8a6"><rect x="-11" y="-9" width="22" height="18" rx="2"/><path d="M-11 -4h22M-6 1h8M-6 5h12"/></g>
+    </g>
+    <text class="h" x="21" y="90">Frontend craft</text>
+    <text class="p" x="21" y="112">Pixel-perfect layouts,</text><text class="p" x="21" y="132">animation, responsive,</text><text class="p" x="21" y="152">UX/UI, technical SEO</text>
+  </g>
+  <g>
+    <rect x="229" y="1" width="212" height="188" rx="16" fill="#0d1117" stroke="#30363d"/>
+    <rect class="hi" x="229" y="1" width="212" height="188" rx="16" fill="none" stroke="#f2a35e" stroke-width="1.5" style="animation-delay:0.9s"/>
+    <rect class="top" x="249" y="1" width="172" height="3" rx="1.5" fill="#f2a35e" style="animation-delay:0.9s"/>
+    <g transform="translate(267,44)">
+      <circle r="20" fill="#f2a35e" opacity=".12"/>
+      <circle class="halo" r="20" fill="none" stroke="#f2a35e" style="animation-delay:0.9s"/>
+      <g class="ic" stroke="#f2a35e"><ellipse cx="0" cy="-7" rx="10" ry="4"/><path d="M-10 -7v14c0 2.2 4.5 4 10 4s10-1.8 10-4v-14M-10 0c0 2.2 4.5 4 10 4s10-1.8 10-4"/></g>
+    </g>
+    <text class="h" x="249" y="90">Full stack</text>
+    <text class="p" x="249" y="112">React · Vue on the front;</text><text class="p" x="249" y="132">PHP · Symfony · Node.js</text><text class="p" x="249" y="152">on the back</text>
+  </g>
+  <g>
+    <rect x="457" y="1" width="212" height="188" rx="16" fill="#0d1117" stroke="#30363d"/>
+    <rect class="hi" x="457" y="1" width="212" height="188" rx="16" fill="none" stroke="#14b8a6" stroke-width="1.5" style="animation-delay:1.8s"/>
+    <rect class="top" x="477" y="1" width="172" height="3" rx="1.5" fill="#14b8a6" style="animation-delay:1.8s"/>
+    <g transform="translate(495,44)">
+      <circle r="20" fill="#14b8a6" opacity=".12"/>
+      <circle class="halo" r="20" fill="none" stroke="#14b8a6" style="animation-delay:1.8s"/>
+      <g class="ic" stroke="#14b8a6"><rect x="-12" y="-7" width="24" height="14" rx="7"/><path d="M-6 -3v6M-9 0h6"/><circle cx="5" cy="-1" r="1.2"/><circle cx="8" cy="2" r="1.2"/></g>
+    </g>
+    <text class="h" x="477" y="90">Interactive</text>
+    <text class="p" x="477" y="112">Web games and 3D</text><text class="p" x="477" y="132">experiences for brands</text><text class="p" x="477" y="152">and virtual events</text>
+  </g>
+  <g>
+    <rect x="685" y="1" width="212" height="188" rx="16" fill="#0d1117" stroke="#30363d"/>
+    <rect class="hi" x="685" y="1" width="212" height="188" rx="16" fill="none" stroke="#f2a35e" stroke-width="1.5" style="animation-delay:2.7s"/>
+    <rect class="top" x="705" y="1" width="172" height="3" rx="1.5" fill="#f2a35e" style="animation-delay:2.7s"/>
+    <g transform="translate(723,44)">
+      <circle r="20" fill="#f2a35e" opacity=".12"/>
+      <circle class="halo" r="20" fill="none" stroke="#f2a35e" style="animation-delay:2.7s"/>
+      <g class="ic" stroke="#f2a35e"><path d="M0 -11l2.6 7.4L10 -1l-7.4 2.6L0 9l-2.6-7.4L-10 -1l7.4-2.6z"/></g>
+    </g>
+    <text class="h" x="705" y="90">AI-driven</text>
+    <text class="p" x="705" y="112">Claude Code and Codex,</text><text class="p" x="705" y="132">every day: experience sets</text><text class="p" x="705" y="152">judgment, AI multiplies it</text>
+  </g>
+</svg>
