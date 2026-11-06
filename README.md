@@ -83,12 +83,7 @@ I grew up with classic books, cult films, comics, anime and video games, and a b
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Drasmaurg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=F2A35E&icon_color=14B8A6&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Drasmaurg&hide_border=true&background=0d1117&ring=14B8A6&fire=F2A35E&currStreakLabel=F2A35E&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drasmaurg&bg_color=0d1117&color=c9d1d9&line=14B8A6&point=F2A35E&area=true&hide_border=true" alt="Activity graph" width="100%" />
+  <img height="190" src="https://streak-stats.demolab.com?user=Drasmaurg&hide_border=true&background=0d1117&ring=14B8A6&fire=F2A35E&currStreakLabel=F2A35E&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
 </p>
 
 <p align="center">
