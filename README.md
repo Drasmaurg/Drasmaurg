@@ -88,30 +88,36 @@
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
+      <a href="https://vipoptica.com.co/"><img src="assets/16-vipoptica.gif" alt="VIP Óptica" /></a><br/>
+      <b>VIP Óptica</b><br/><sub>Optical store &amp; pharmacy in Cali · restored, rebuilt and optimized a broken WooCommerce site; ongoing consulting, support and updates</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
       <a href="https://vidagardenmallorca.com/"><img src="assets/04-vidagardenmallorca.gif" alt="Vida Garden Mallorca" /></a><br/>
       <b>Vida Garden Mallorca</b><br/><sub>Luxury landscaping company in Mallorca, Spain</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://corporacionlegends.com/"><img src="assets/05-corporacionlegends.gif" alt="Corporación Legends" /></a><br/>
       <b>Corporación Legends</b><br/><sub>Football and sports physiotherapy organization</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://aventureros-ecoturismo.netlify.app/"><img src="assets/15-aventureros.gif" alt="Aventureros Ecoturismo" /></a><br/>
       <b>Aventureros Ecoturismo</b> <sub><code>personal project</code></sub><br/><sub>Eco-trips from Cali to 19 destinations, with plan filters and an interactive Leaflet map</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://ajiacotours.com/"><img src="assets/09-ajiacotours.gif" alt="Ajiaco Tours" /></a><br/>
       <b>Ajiaco Tours</b><br/><sub>Tours in Bogotá and its surroundings with a local guide</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://cercal.cl/"><img src="assets/10-cercal.gif" alt="Cercal Group" /></a><br/>
       <b>Cercal Group</b><br/><sub>Pharma consulting (GxP/GMP) · sole developer, hand in hand with marketing</sub>
     </td>
-    <td width="50%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td colspan="2" width="50%" valign="top" align="center">
       <a href="https://cercal.online/"><img src="assets/11-cercalacademy.gif" alt="Cercal Academy" /></a><br/>
       <b>Cercal Academy</b><br/><sub>E-learning platform on the regulated industry, with memberships</sub>
     </td>
