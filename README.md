@@ -79,6 +79,12 @@
       <b>Production dashboard</b><br/><sub>Custom app that cut an animation studio's production time by 60% · React, MUI, Node.js, MongoDB</sub>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <img src="assets/18-necteon-office.gif" alt="NecTeon Office" width="560" /><br/>
+      <b>NecTeon Office</b> <sub><code>personal project</code></sub><br/><sub>Live 3D office where each AI agent works at its desk as a block figure, walks between departments and opens its profile card on click · React, TypeScript, Three.js<br/>3D figures and bricks by <a href="https://blendswap.com/blend/18390">BornCG</a> / <a href="https://blendswap.com">Blend Swap</a> (CC BY 3.0, fan art, non-commercial)</sub>
+    </td>
+  </tr>
 </table>
 
 <p align="left">
