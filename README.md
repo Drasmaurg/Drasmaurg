@@ -117,9 +117,13 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" width="50%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://cercal.online/"><img src="assets/11-cercalacademy.gif" alt="Cercal Academy" /></a><br/>
       <b>Cercal Academy</b><br/><sub>E-learning platform on the regulated industry, with memberships</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://1cerho.com/"><img src="assets/17-cerho.gif" alt="Cerho" /></a><br/>
+      <b>Cerho</b><br/><sub>Official site for a Venezuelan R&amp;B singer · rolling 3D-feel vinyl, smoke, sound switch, SEO and GA4 · Vue 3, TypeScript, Vite</sub>
     </td>
   </tr>
 </table>
