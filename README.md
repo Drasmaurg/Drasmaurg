@@ -44,6 +44,17 @@
   <img src="assets/titles/projects.svg" alt="Things I've built" width="100%" />
 </p>
 
+<table>
+  <tr>
+    <td width="100%" valign="top" align="center">
+      <a href="https://bushido.guianecteon.com/"><img src="assets/19-bushido.gif" alt="BUSHIDŌ, interactive web experience" width="320" /></a><br/>
+      <b>BUSHIDŌ · The Way of the Warrior</b> <sub><code>featured</code></sub><br/>
+      <sub>Interactive web experience that opens with a katana cut. A blindfolded master follows your cursor (or your finger and your phone's tilt), five chapters inspired by the techniques of <i>The Book of Five Rings</i> animate with each scroll, 70+ character poses sync with the cut, the sheathing and the bow, and an original soundtrack is generated live in the browser · Vite, TypeScript, Canvas, Web Audio<br/>
+      <a href="https://bushido.guianecteon.com/">Try it live →</a></sub>
+    </td>
+  </tr>
+</table>
+
 <p align="left">
   <img src="assets/titles/group-ai.svg" alt="AI & products" width="100%" />
 </p>
