@@ -56,6 +56,33 @@
 </table>
 
 <p align="left">
+  <img src="assets/titles/group-experiences.svg" alt="Interactive experiences" width="100%" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://kira.guianecteon.com/"><img src="assets/20-kira.gif" alt="KIRA, interactive hip-hop band" /></a><br/>
+      <b>KIRA ✱ CREW</b><br/><sub>An animated hip-hop band that plays in the browser: six original tracks synthesized live, scratchable records, beatbox pads and a four-piece mixer · JavaScript, Web Audio, AI-animated characters</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://visiones.guianecteon.com/"><img src="assets/21-robot-visions.gif" alt="Robot Visions" /></a><br/>
+      <b>Robot Visions</b><br/><sub>EK-0 has studied humanity for 200 years and wakes up today: an interactive story about the conscious use of AI, inspired by Isaac Asimov · Vite, JavaScript, ASCII animation</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://arturo-espada-en-la-piedra.netlify.app/"><img src="assets/22-sword-in-the-stone.gif" alt="Arthur and the Sword in the Stone" /></a><br/>
+      <b>Arthur and the Sword in the Stone</b><br/><sub>Free browser game in eight chapters: live the legend, learn with Merlin and pull the sword from the stone · pixel art in a 3D scene with Three.js</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://mrbartini.guianecteon.com/"><img src="assets/23-mr-bartini.gif" alt="Mr. Bartini" /></a><br/>
+      <b>Mr. Bartini</b><br/><sub>An animated jazz bar: serve the guests, mix each cocktail with the right recipe and fill your menu of 28 cards · JavaScript, CSS animation</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="left">
   <img src="assets/titles/group-ai.svg" alt="AI & products" width="100%" />
 </p>
 
@@ -77,7 +104,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://oplupconsulting.com/"><img src="assets/14-oplupconsulting.gif" alt="Oplup Consulting" /></a><br/>
-      <b>Oplup Consulting</b><br/><sub>Corporate site for an applied-AI consultancy</sub>
+      <b>Oplup Consulting</b><br/><sub>Corporate site for an applied-AI consultancy · animated octopus hero, guÍA product showcase, blog and live Instagram feed</sub>
     </td>
   </tr>
   <tr>
